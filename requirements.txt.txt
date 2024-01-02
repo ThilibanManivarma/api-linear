@@ -1,0 +1,7 @@
+Flask
+Werkzeug
+numpy
+scikit-learn
+gunicorn
+jinja2
+itsdangerous
